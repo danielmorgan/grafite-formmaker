@@ -1,5 +1,5 @@
 {
-    "name": "grafite/formmaker",
+    "name": "danielmorgan/grafite-formmaker",
     "description": "A remarkably magical form and input maker tool for Laravel.",
     "license": "MIT",
     "authors": [
@@ -40,6 +40,12 @@
             ]
         }
     },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/danielmorgan/grafite-cms"
+        }
+    ],
     "minimum-stability": "dev",
     "prefer-stable": true
 }
